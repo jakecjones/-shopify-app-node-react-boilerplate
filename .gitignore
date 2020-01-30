@@ -1,4 +1,4 @@
 node_modules
 .next
 .env
-proccess.env
+process.env
